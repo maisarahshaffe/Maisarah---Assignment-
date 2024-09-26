@@ -1,4 +1,4 @@
 package PACKAGE_NAME;
 
-public class Testing {
+public class Library {
 }
